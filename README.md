@@ -53,8 +53,9 @@ real-estate-capstone/
 
 ⚙️ Setup & Installation
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/real-estate-capstone.git
-cd real-estate-capstone
+git clone [https://github.com/yourusername/real-estate-capstone.git](https://github.com/bhumikadhote3/The_Developers_arena_task_6-real-estate-price-prediction.git
+)
+cd The_Developers_arena_task_6-real-estate-price-prediction
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
